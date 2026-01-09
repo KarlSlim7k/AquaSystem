@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Fondo circular azul -->
+  <circle cx="100" cy="100" r="95" fill="#2563eb" stroke="#1e40af" stroke-width="5"/>
+  
+  <!-- Gota de agua blanca -->
+  <path d="M100 40 C100 40, 70 70, 70 95 C70 115, 85 130, 100 130 C115 130, 130 115, 130 95 C130 70, 100 40, 100 40 Z" 
+        fill="#ffffff" stroke="#e0f2fe" stroke-width="2"/>
+  
+  <!-- Onda de agua inferior -->
+  <path d="M40 140 Q50 135, 60 140 T80 140 T100 140 T120 140 T140 140 T160 140 L160 160 L40 160 Z" 
+        fill="#60a5fa" opacity="0.8"/>
+  
+  <!-- Segunda onda -->
+  <path d="M40 155 Q50 150, 60 155 T80 155 T100 155 T120 155 T140 155 T160 155 L160 170 L40 170 Z" 
+        fill="#3b82f6" opacity="0.6"/>
+  
+  <!-- Texto AquaTenex -->
+  <text x="100" y="190" font-family="Arial, sans-serif" font-size="16" font-weight="bold" 
+        text-anchor="middle" fill="#ffffff">AquaTenex</text>
+</svg>

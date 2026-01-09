@@ -1,0 +1,50 @@
+# Node dependencies
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+dist/
+build/
+
+# PHP
+vendor/
+.env
+.env.local
+.env.*.local
+composer.lock
+
+# Laravel
+storage/logs/*
+bootstrap/cache/*
+.php_cs.cache
+.phpunit.result.cache
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+.venv
+
+# Database
+*.sql.bak
+database/backups/*
+
+# Logs
+logs/
+*.log
+
+# Temporary
+tmp/
+temp/
+*.tmp
