@@ -15,12 +15,7 @@ return [
     |
     */
 
-    'stateful' => explode(',', env('SANCTUM_STATEFUL_DOMAINS', sprintf(
-        '%s,%s,%s',
-        'localhost,localhost:3000,localhost:5173,127.0.0.1,127.0.0.1:8000,127.0.0.1:5173,::1',
-        '*.devtunnels.ms,*.ngrok-free.app,*.ngrok.io',
-        Sanctum::currentApplicationUrlWithPort()
-    ))),
+    'stateful' => explode(',', env('SANCTUM_STATEFUL_DOMAINS', 'ks7k.org,*.ks7k.org')),
 
     /*
     |--------------------------------------------------------------------------

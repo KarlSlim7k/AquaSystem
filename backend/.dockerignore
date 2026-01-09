@@ -1,0 +1,17 @@
+node_modules
+vendor
+.env
+.env.*
+!.env.production
+.git
+.gitignore
+.gitattributes
+*.md
+storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+bootstrap/cache/*
+tests
+phpunit.xml
+.phpunit.result.cache
