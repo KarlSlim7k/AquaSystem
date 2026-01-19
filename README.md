@@ -744,44 +744,11 @@ Consulta los siguientes archivos para información específica:
 
 ---
 
-## 🤝 Contribución
-
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-### Estándares de Código
-- Seguir PSR-12 para PHP
-- Usar ESLint para JavaScript
-- Comentarios en español
-- Tests para nuevas features
-
----
-
-## 📞 Soporte
-
-Para reportar bugs o solicitar features, crea un issue en el repositorio.
-
-### Contacto
-- 📧 Email: soporte@aquatenex.com
-- 📱 WhatsApp: +52 (271) XXXXXXX
-- 🌐 Web: www.aquatenex.com
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Ver archivo [LICENSE](LICENSE) para más detalles.
-
 ---
 
 ## 👥 Autores
 
-- **Equipo de Desarrollo AquaTenex**
+- **Equipo de DevelomentGroup7k**
 - Versión actual: 1.0.0
 - Última actualización: 9 de enero de 2026
 
@@ -800,4 +767,3 @@ Este proyecto está bajo la licencia MIT. Ver archivo [LICENSE](LICENSE) para m�
 
 ---
 
-**¡Gracias por usar AquaTenex! 💧**
